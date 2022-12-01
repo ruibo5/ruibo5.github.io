@@ -1,7 +1,7 @@
 # Setup
 title: Ruibo Duan
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+description: Yonsei University(Computer Science)
+url: https://ruibo5.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -52,8 +52,3 @@ sass:
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
 
-# Specify the author for blog posts
-author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
