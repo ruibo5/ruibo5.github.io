@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /media/
 
 Sitemap: https://ruibo5.github.io/sitemap.xml
